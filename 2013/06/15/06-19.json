@@ -1,0 +1,20 @@
+[
+ {
+  "date": "Sat, 15 Jun 2013 06:15:32 GMT", 
+  "link": "http://www.cnbeta.com/articles/241223.htm", 
+  "description": "<b>感谢<a href=\"http://www.pu263.com/\" target=\"_blank\">思联</a>的投递</b><br />\nopenSUSE&nbsp; <a href=\"http://lists.opensuse.org/opensuse-announce/2013-06/msg00000.html\">宣布</a> 12.1 版本已经达到其生命周期的重点，不再进行任何维护。12.1 版本是在 2011年11月16日发布的，经过 18 个月的 bugfix 和安全支持，建议用户升级到 12.3 版本（当前最新的稳定版）。", 
+  "title": "OpenSUSE 12.1 结束其生命周期"
+ }, 
+ {
+  "date": "Sat, 15 Jun 2013 06:13:42 GMT", 
+  "link": "http://www.cnbeta.com/articles/241222.htm", 
+  "description": "<b>感谢<a href=\"http://www.xbox-skyer.com\" target=\"_blank\">xbox-skyer</a>的投递</b><br />\n自从微软发布了 Xbox One，出现了一股针对 DRM（数字内容版权管理）限制的憎恨情绪。遗憾的是，很多用户压根不了解 Xbox One 游戏中的玩家福利。事实上，有很多 Xbox One 游戏的玩家福利被完全忽视了！所以，让我们来看看 Xbox One 的授权是怎样工作的吧，帮助你了解微软的决策以及帮你认清新的 DRM 机制下的玩家福利。", 
+  "title": "谈谈 Xbox One 数字版权管理机制 (DRM) 它可不是你的什么敌人"
+ }, 
+ {
+  "date": "Sat, 15 Jun 2013 06:12:47 GMT", 
+  "link": "http://www.cnbeta.com/articles/241221.htm", 
+  "description": "<b>感谢ballw的投递</b><br />\n在苹果不久后就要正式发布的iOS和OS X新系统中，苹果对于游戏方面确实下了不少功夫，之前提到过苹果在与第三方厂商合作开发iOS游戏手柄控制器设备，除了这些，苹果还将在安全性、排行榜、玩家挑战、渲染工具方面对未来的游戏平台予以辅助和增强。", 
+  "title": "苹果将在iOS 7中大力打击游戏作弊，增加游戏功能"
+ }
+]

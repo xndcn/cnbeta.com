@@ -1,0 +1,8 @@
+[
+ {
+  "date": "Mon, 07 Dec 2015 04:09:38 GMT", 
+  "link": "http://www.cnbeta.com/articles/454729.htm", 
+  "description": "<strong>早些时候，Linux之父（Linus Torvalds）愉快地宣布了即将到来的Linux 4.4内核的第四个候选发布版本（简称RC4）。</strong>Torvalds表示事情仍然平稳，没有什么很突出的地方。用数字来划分的话，RC4中包含了大约70%的驱动更新（尤其是GPU、SCSI、音频与网络）、15%的网络更新、以及15%的核心和架构改进。", 
+  "title": "Linus Torvalds宣布Linux Kernel 4.4 LTS RC4：正式版就在前方"
+ }
+]

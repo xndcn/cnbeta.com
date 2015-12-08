@@ -1,0 +1,32 @@
+[
+ {
+  "date": "Tue, 08 Dec 2015 22:34:46 GMT", 
+  "link": "http://www.cnbeta.com/articles/455341.htm", 
+  "description": "<strong>据国外媒体appleinsider报道，苹果周四发布watch OS 2.1版本，修复Apple Watch遇到的各种漏洞问题。</strong>值得注意的是，watchOS 2.1在系统语言中增加了阿拉伯语、捷克语、希腊语、希伯来语、匈牙利语、马来语、葡萄牙语和越南语。根据苹果公司官网的信息，其他更新还包括：", 
+  "title": "苹果发布watchOS 2.1 修复bug并支持新语言"
+ }, 
+ {
+  "date": "Tue, 08 Dec 2015 22:33:56 GMT", 
+  "link": "http://www.cnbeta.com/articles/455339.htm", 
+  "description": "据国外媒体9to5Mac报道，苹果的发布会时间一向很有规律，所以现在起预计该公司会在明年3月举行新一代Apple Watch的发布会应该不会让人感到意外。<strong>然而根据外媒9to5Mac周二爆料，明年三月的发布会上，苹果除了推出新一代Watch外，还很可能发布传闻已久的4英寸屏幕全新iPhone。</strong>", 
+  "title": "传苹果明年3月举行Watch 2和4英寸iPhone发布会"
+ }, 
+ {
+  "date": "Tue, 08 Dec 2015 22:33:12 GMT", 
+  "link": "http://www.cnbeta.com/articles/455337.htm", 
+  "description": "<strong>图片分享服务Snapchat周二遭遇大规模服务中断。截稿时，问题仍没有被修复，大量用户反映不能登录或无法接收到图片。</strong>Snapchat官方也尚未表明何时能修复问题。其官方Twitter在周二早晨曾发推文表示“部分用户遭遇加载问题。团队已经获知情况，并正着手解决。”", 
+  "title": "社交平台Snapchat大规模宕机已超12个小时"
+ }, 
+ {
+  "date": "Tue, 08 Dec 2015 22:32:45 GMT", 
+  "link": "http://www.cnbeta.com/articles/455335.htm", 
+  "description": "据国外媒体The Verge报道，苹果公司周三发布了iOS 9.2版本，修复众多bug并完善了几个内置应用程序。该版本还增加了阿拉伯语版Siri，明显向中东土豪倾斜。之前的iOS 9.2测试版中出现的NumberSync服务（即使电话不在机主身边，也可让用户在多个设备之间共享电话号码并拨打电话或发送短信）并没有在正式版本中出现。", 
+  "title": "苹果发布iOS 9.2 修复bug增加稳定性"
+ }, 
+ {
+  "date": "Tue, 08 Dec 2015 22:30:50 GMT", 
+  "link": "http://www.cnbeta.com/articles/455333.htm", 
+  "description": "<strong>据美国科技媒体网站The Verge报道，昨日Mozilla透露将不会研发或者出售Firefox OS&nbsp;智能手机和设备，宣告了长达两年半、试图进入低端智能手机的努力破产。</strong>这一新闻最初是在一次开发者大会上发布，随后Mozilla向TechCrunch证实了这一消息。Mozilla对Firefox OS的最初目标是让它进入新兴市场的低端手机领域。它曾试图推出只需25美元的智能手机，但因不切实际最终在今年早期放弃了这一尝试。", 
+  "title": "Mozilla宣布放弃Firefox手机"
+ }
+]

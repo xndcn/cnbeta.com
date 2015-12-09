@@ -1,0 +1,20 @@
+[
+ {
+  "date": "Wed, 09 Dec 2015 06:23:01 GMT", 
+  "link": "http://www.cnbeta.com/articles/455573.htm", 
+  "description": "10月中旬，我们爱玩客iVankr推出了一期16GB版iPhone 6成功升级128GB的视频，事后受到了广泛关注，并成为数码圈的热点话题，其中大家讨论最多的就是这种改装过的iPhone之后是否能升级iOS 9.2正式版？升级过程中是否能通过苹果的验证？这是很多用户在升级前最大的疑问，也是最大的担心，因为之后这一个多月时间里，网上各种风传苹果会在iOS 9.2更新的时候封杀改装的iPhone，直接锁机并使其变砖，那么结果究竟会如何呢？", 
+  "title": "[视频]实测：16GB版iPhone 6升级128GB更新iOS 9.2正式版成功"
+ }, 
+ {
+  "date": "Wed, 09 Dec 2015 06:19:59 GMT", 
+  "link": "http://www.cnbeta.com/articles/455571.htm", 
+  "description": "<strong>日前，澳大利亚警方突袭了属于Craig Wright名下的一所房子，外媒Wired、Gizomodo指出，Wright很有可能就是那个深藏比特币背后的人，也就是那个身份一直没有得到证实的中本聪(Satoshi Nakamoto)。</strong>《卫报》称，10多名警察在当地时间12月9日下午1点半突袭了这所位于悉尼高登市郊的房子，他们手戴白手套对房子里面的橱柜、储存区都进行了仔细的搜查。", 
+  "title": "澳大利亚警方突袭传闻中的比特币“创始人”住宅"
+ }, 
+ {
+  "date": "Wed, 09 Dec 2015 06:19:46 GMT", 
+  "link": "http://www.cnbeta.com/articles/455569.htm", 
+  "description": "物联网IoT技术及智能联网设备固然为生活带来方便，但日益突出的安全隐患问题不容忽视。<strong>据美国工业控制系统赛博应急响应小组(ICS-CERT)发布的报告，美国XZERES公司生产的物联网智能风力涡轮机XZERES 442SR运行的操作系统存在跨站请求伪造漏洞（XSS攻击漏洞）</strong>，据ICS-CERT警告利用该漏洞即使黑客新手都能够使用工具来发动跨站请求伪造XSS攻击，获得权限控制系统。目前厂商已经发布了升级补丁以修复这个安全问题", 
+  "title": "物联风力涡轮机系统存安全漏洞易遭XSS攻击"
+ }
+]

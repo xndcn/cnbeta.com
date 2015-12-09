@@ -1,0 +1,14 @@
+[
+ {
+  "date": "Wed, 09 Dec 2015 06:33:23 GMT", 
+  "link": "http://www.cnbeta.com/articles/455579.htm", 
+  "description": "阿里巴巴集团今日在东京宣布，与国际足联达成一项为期8年的合作协议<strong>，阿里巴巴E-Auto将冠名国际足联俱乐部世界杯（以下简称“世俱杯”），E-Auto是阿里巴巴集团与上海汽车集团联合打造的一款互联网汽车，有望于2016年面世。</strong>", 
+  "title": "阿里巴巴推广互联网汽车品牌 与世俱杯达成8年合作"
+ }, 
+ {
+  "date": "Wed, 09 Dec 2015 06:32:26 GMT", 
+  "link": "http://www.cnbeta.com/articles/455577.htm", 
+  "description": "<strong>据ZDNet网站报道，本周二微软宣布，作为它每月安全公告的一部分，所有Windows用户应该更新自己的操作系统，预防来自至少两个重大漏洞的攻击。</strong>MS15-128修补了一系列显存崩溃漏洞，后者使得黑客可以安装程序，预览和删除数据，并利用用户权限创建新的账户。这个漏洞最初影响了Windows Vista及之后版本，它还波及了Skype for Business 2016, 微软Lync 2010 和Lync 2013，以及Office 2007 和Office 2010。", 
+  "title": "微软发布12月重大安全漏洞补丁"
+ }
+]
